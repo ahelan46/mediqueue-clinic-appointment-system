@@ -1,0 +1,22 @@
+
+
+# Environment secrets
+.env
+.env.*
+
+# Composer dependencies
+/vendor/
+
+# Private NetBeans settings
+/nbproject/private/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database exports
+*.sql
+*.sql.gz
